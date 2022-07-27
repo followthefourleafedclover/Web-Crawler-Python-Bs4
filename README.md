@@ -12,5 +12,5 @@ Resources:
 - https://docs.python.org/3/library/json.html#
 - https://www.youtube.com/watch?time_continue=101&v=0hJPngNmlvc&feature=emb_title&ab_channel=Trinitysoftwareacademy
 
-Additional Comments:
-I coded this from scratch after withnessing another individual create a Webcrawler in PHP. I am very pround of my work and hope to improve on it.
+Additional Comments
+- I coded this from scratch after withnessing another individual create a Webcrawler in PHP. I am very pround of my work and hope to improve on it.
