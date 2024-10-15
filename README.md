@@ -3,7 +3,7 @@ A simple WebCrawler that returns title, keywords, and exports data as JSON
 
 *Args
 - target: url of the site[s] you want to crawl. For crawling more than one site, targets must be seperated by ,'s. 
-- depth: this is the time complexity. i.e deeper the depth, more webpages the program crawls, and the greater time it takes. ( O(depth) ).
+- depth: this is the time complexity. i.e deeper the depth, more webpages the program crawls, and the greater time it takes. ( O(n^2) ).
 
 *Out
 - All data is exported to WebCrawler.json 
